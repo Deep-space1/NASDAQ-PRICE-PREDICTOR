@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/86626839/145319771-8838ba7e-4c80-4614-98f8-3304fd9e3a0b.png)
 
 
-Ever Heard of INdex FAANG? if not, here it is 
+Ever Heard of Acronym FAANG? if not, here it is 
 
 -Facebook
 -Apple
@@ -11,7 +11,9 @@ Ever Heard of INdex FAANG? if not, here it is
 -Netflix
 -Google
 
-The idea behind this project is something simnilar, We've used the top 10 companies from Nasdaq 100 to predict future closing prices of the NASDAQ 100 Index
+A lot of people were using the FAANG, infact an index was created for the same to enhance their trading strategies.
+
+The idea behind this project is something simnilar, I've used the top 10 companies from Nasdaq 100 to predict future closing prices of the NASDAQ 100 Index
 
 Top 10s
 Facebook, Amazon, Adobe, Netflix, Nvidia, Tesla, Alphabet Class A, Alphabet Class C, Microsoft.
